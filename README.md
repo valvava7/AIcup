@@ -2,6 +2,7 @@
 此為AI cup 2024春季賽「以生成式AI建構無人機於自然環境偵察時所需之導航資訊競賽 II － 導航資料生成競賽」之相關程式碼  
 若要進行訓練，直接執行AIcup.ipynb即可  
 若想載入權重進行inference，至submiting區塊輸入權重檔及取消註解，依序執行第1,2,5,8,10個cell  
+權重檔下載：https://drive.google.com/drive/folders/1wDxOsknDPLu6xjr2OkXqnlJJ7wWlJDVo?usp=sharing
 # 建議配置環境
 作業系統為Ubuntu 22.04.3 LTS
 | module | version |
